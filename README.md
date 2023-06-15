@@ -1,7 +1,7 @@
 
 # NODE JS - TECH EXAM
 
-A NodeJS application that capable of doing the following:
+A NodeJS (16.14.2) application that capable of doing the following:
 * Should be able to connect to MySQL;
 * API with returning users in users table (sorted by name); and
 * can be accessed in any domains (using env vars)
